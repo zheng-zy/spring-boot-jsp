@@ -1,0 +1,1 @@
+java -jar "spring-boot-jsp-0.0.1-SNAPSHOT.war"
